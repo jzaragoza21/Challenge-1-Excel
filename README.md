@@ -1,5 +1,7 @@
 # kickstarter-analysis
 
+Click here to view the analysis file: [Kickstarter_Analysis](https://github.com/jzaragoza21/kickstarter-analysis/blob/main/Kickstarter_Analysis_.xlsx)
+
 ## Overview of Project & Purpose
 
 The first module's challenge set out to further test our skills with Excel, particularly with PivotTables, COUNTIFs, percentages and visualizing data with charts. The Challenge establishes two different objectives in which we utilize the aforementioned excel skills, among many others. The first objective was to organize Kickstarter data and analyze whether there were any relationships or trends between successful, failed and canceled Kickstarter campaigns for Theater shows and the month their campaigns launched. The second objective was to analyze fundraising goal data of successful, failed and canceled Kickstarter Play campaigns. Furthermore, we were to identify whether there is any relationship between the amount of the fundraising campaign goals and its success or failure.   
